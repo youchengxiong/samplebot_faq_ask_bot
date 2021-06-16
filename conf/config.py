@@ -23,22 +23,22 @@ import os
 DEFAULT_LANG = 'ja'
 
 # account
-ADMIN_ACCOUNT = "admin@xxx.com"
-DOMAIN_ID = 0
+ADMIN_ACCOUNT = "you.cloudtech@cloudtechcoltd"
+DOMAIN_ID = 12034979
 
 # api
-API_ID = "kr1EHxxxxfJVz"
-SERVER_CONSUMER_KEY = "To8SnC7sxxxxxjqXZhO"
+API_ID = "jp2aVgceOdikX"
+SERVER_CONSUMER_KEY = "5gwMQvRUc3xn4ZOvvcxG"
 
-SERVER_ID = "96460cc1e778402xxxxxfe35fa97ce76"
-SECRET_KEY_NAME = "private_201xxxxx164308.key"
+SERVER_ID = "4c7d72eae0b74296a08e50d37382bcba"
+SECRET_KEY_NAME = "private_20210614201213.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
+LOCAL_ADDRESS = "https://lineworksfaqaskbot.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com"
-DB_NAME = "x3mdxxxxsg5nx"
-DB_USER = "xsozxxxxvksikx"
+DB_HOST = "ec2-54-224-194-214.compute-1.amazonaws.com"
+DB_NAME = "deksep5c3n26vp"
+DB_USER = "gmkepirqlrpbru"
 DB_PORT = "5432"
-DB_PASSWORD = "xxxxxb3ff80c85d331da880f4b3e0xxxxxxxxxxxd552d64d128317653ce0xxxx"
+DB_PASSWORD = "fbae7617398708c93f7589c8da301f6c5378a3cd892060e42f37214d963d069a"
